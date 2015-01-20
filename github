@@ -1,3 +1,3 @@
-https://github.com/AndersOsterman/AndersOsterman.github.io
-AndersOsterman.github.io
-"Hello World" > index.html
+echo https://github.com/AndersOsterman/AndersOsterman.github.io
+cd AndersOsterman.github.io
+echo "Hello World" > index.html
